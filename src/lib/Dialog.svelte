@@ -10,5 +10,6 @@
 <style>
     button {
         background-color: gold;
+        color: white;
     }
 </style>
