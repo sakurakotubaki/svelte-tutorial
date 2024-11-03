@@ -5,6 +5,11 @@
     count += 1
   }
 
+
+
+  function $state(arg0: number): number {
+    throw new Error("Function not implemented.");
+  }
 </script>
 
 <h1>{count} {count === 5 ? "５回クリック": "click me"}</h1>
