@@ -1,6 +1,6 @@
 <script lang="ts">
     function dialog(): void {
-        alert("click me")
+        alert("スカッシュマージするよ")
     }
 </script>
 
